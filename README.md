@@ -78,4 +78,4 @@ RegisterNumber:25016032
 <img width="1919" height="995" alt="Screenshot 2025-12-16 162723" src="https://github.com/user-attachments/assets/ed2227d3-a4bc-4332-8bf0-9f8daff9ea7c" />
 
 **RESULTS**
-Thus the Synchronous 3 bit Up counter is implemeted and verified.
+Thus the Synchronous 4 bit Up counter is implemeted and verified.
